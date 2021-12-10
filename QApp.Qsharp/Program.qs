@@ -1,4 +1,7 @@
-﻿namespace QuantumRNG {
+﻿// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT license.
+
+namespace QuantumRNG {
 
     open Microsoft.Quantum.Intrinsic;
     open Microsoft.Quantum.Measurement;
